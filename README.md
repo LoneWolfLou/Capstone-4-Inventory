@@ -1,5 +1,6 @@
-# Functionality
-This is an inventory program and as the manager i coded a program to do the following.
+# Description
+The Poised Project is a program written the Java language that was created to fulfill the level 2 task requirements for the Hyperion Development Software Engineering Bootcamp that I am enrolled in. This is an inventory program and as the manager i coded a program to do the following:
+
 To optimize your delivery time and for neater
 organization, you have decided to use your Python knowledge to get an overview
 of what each stock-taking session entailed.
@@ -17,8 +18,9 @@ Nike warehouses store the following information for each stock-taking list:
 
 ● Value
 
-Other store managers (in other regions) would like to be able to use your program
-to do the following:
+# Functionality
+
+The program is able to do the following:
 
 ● Search products by code.
 
